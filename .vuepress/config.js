@@ -20,6 +20,8 @@ module.exports = {
     sidebar: [
       '/readme2',
       ['/readme3', 'explicit link text']
-    ]
+    ],
+    repo: 'https://github.com/Tinalst/vuepress-blob',
+    editLinks: true
   }
 };

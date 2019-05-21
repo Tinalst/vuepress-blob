@@ -1,0 +1,24 @@
+{
+  "name": "vuepress-blob",
+  "version": "1.0.0",
+  "description": "@@@@",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx vuepress dev .",
+    "build": "npx vuepress build ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tinalst/vuepress-blob.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tinalst/vuepress-blob/issues"
+  },
+  "homepage": "https://github.com/Tinalst/vuepress-blob#readme",
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
